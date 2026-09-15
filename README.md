@@ -15,7 +15,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/list-CC0--1.0-lightgrey?style=flat-square)](#license)
 
-[按场景找项目](#增长工作流) · [编辑精选](#编辑精选) · [Star 排行](#star-排行榜) · [完整数据](data/projects.csv) · [推荐项目](CONTRIBUTING.md)
+[按场景找项目](#增长工作流) · [Nanako 精选](#nanako-精选) · [Star 排行](#star-排行榜) · [完整数据](data/projects.csv) · [推荐项目](CONTRIBUTING.md)
 
 </div>
 
@@ -68,7 +68,7 @@ flowchart LR
 
 </details>
 
-## 编辑精选
+## Nanako 精选
 
 不想看完整列表？可以先从这 12 个项目开始：
 
