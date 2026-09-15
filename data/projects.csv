@@ -1,0 +1,32 @@
+name,repository,category,type,rating,license,difficulty
+GPT Researcher,assafelovic/gpt-researcher,Market Research,AI Native,Recommended,Apache-2.0,Medium
+Firecrawl,firecrawl/firecrawl,Market Research,AI Infrastructure,Recommended,AGPL-3.0,Medium-High
+Crawl4AI,unclecode/crawl4ai,Market Research,AI Infrastructure,Recommended,Apache-2.0 plus attribution,Medium-High
+Trivium,KaiMOdev/trivium,SEO GEO and Content,Growth Infrastructure,Promising,AGPL-3.0,Medium
+OpenSEO,Juliusolsson05/openSEO,SEO GEO and Content,AI Native,Promising,GPL-3.0,Medium
+OmniSearch AI,hassanrrraza/omnisearch-ai,SEO GEO and Content,AI Native,Promising,Needs verification,Medium
+Postiz,gitroomhq/postiz-app,Social Media,AI Enabled,Recommended,AGPL-3.0,Medium
+Mixpost,inovector/mixpost,Social Media,Growth Infrastructure,Needs review,MIT plus commercial Pro,Medium
+Socioboard,socioboard/Socioboard-5.0,Social Media,Growth Infrastructure,Historical,Needs verification,High
+Twenty,twentyhq/twenty,CRM and Leads,AI Enabled,Recommended,AGPL-3.0 plus Enterprise,Medium-High
+Chatwoot,chatwoot/chatwoot,CRM and Leads,AI Enabled,Recommended,MIT plus Enterprise,Medium-High
+Typebot,baptisteArno/typebot.io,CRM and Leads,AI Enabled,Recommended,AGPL-3.0,Low-Medium
+OpenCRM,arkitekt-ai/OpenCRM,CRM and Leads,AI Native,Case,Needs verification,Medium
+Mautic,mautic/mautic,Marketing Automation,Growth Infrastructure,Recommended,GPL-3.0,High
+n8n,n8n-io/n8n,Marketing Automation,AI Enabled,Recommended,Fair-code Sustainable Use License,Medium
+Activepieces,activepieces/activepieces,Marketing Automation,AI Enabled,Recommended,MIT core plus Enterprise,Low-Medium
+Dittofeed,dittofeed/dittofeed,Marketing Automation,AI Enabled,Recommended,MIT,Medium-High
+listmonk,knadh/listmonk,Marketing Automation,Growth Infrastructure,Recommended,AGPL-3.0,Medium
+Novu,novuhq/novu,Marketing Automation,AI Enabled,Recommended,MIT core plus Enterprise,Medium-High
+PostHog,PostHog/posthog,Analytics and Experimentation,AI Enabled,Recommended,MIT core plus Open core,Medium-High
+GrowthBook,growthbook/growthbook,Analytics and Experimentation,AI Enabled,Recommended,MIT core plus Enterprise,High
+Formbricks,formbricks/formbricks,Analytics and Experimentation,AI Enabled,Recommended,AGPL-3.0,Medium
+Plausible,plausible/analytics,Analytics and Experimentation,Growth Infrastructure,Recommended,AGPL-3.0 Community,Medium
+Umami,umami-software/umami,Analytics and Experimentation,Growth Infrastructure,Recommended,MIT,Medium
+Metabase,metabase/metabase,Analytics and Experimentation,AI Enabled,Recommended,AGPL Community plus Enterprise,Medium-High
+Langflow,langflow-ai/langflow,Agent Builders,AI Native Infrastructure,Recommended,MIT,Medium
+Flowise,FlowiseAI/Flowise,Agent Builders,AI Native Infrastructure,Recommended,Apache-2.0,Medium
+LoopMark Agent,loopmark-opensource/loopmark-agent,Marketing Agents,AI Native,Case,MIT,Medium
+AdClaw,Citedy/adclaw,Marketing Agents,AI Native,Watch,Needs verification,Medium-High
+AI Marketing Skills,superamped/ai-marketing-skills,Marketing Agents,AI Native,Watch,Needs verification,Medium
+Growth Marketing Skills,duandigi/duandigi-growth-marketing-skill,Marketing Agents,AI Native,Case,MIT,Medium
