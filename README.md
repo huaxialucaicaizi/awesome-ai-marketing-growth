@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Awesome AI Marketing & Growth
+# 🚀 Nanako AI Marketing & Growth Map
 
 **把 AI 真正用进市场研究、内容增长、获客、转化与实验。**
 
