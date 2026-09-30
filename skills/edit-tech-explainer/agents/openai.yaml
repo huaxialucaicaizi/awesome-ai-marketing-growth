@@ -1,0 +1,13 @@
+interface:
+  display_name: AI 热点口播视频 · Tech Explainer
+  short_description: 制作 AI 产品热点口播，理解观点、拆解博主风格并完成分镜与剪辑
+  default_prompt: 使用 $edit-tech-explainer，先理解这条口播的观点与逻辑；有博主参考时拆解并适配其表达，再按确认流程制作静态分镜和视频。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
