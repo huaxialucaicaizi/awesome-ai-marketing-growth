@@ -154,6 +154,7 @@ flowchart LR
 - **[AdClaw](https://github.com/Citedy/adclaw)** ![Stars](https://img.shields.io/github/stars/Citedy/adclaw?style=flat-square) — 用多个专门 Agent 组织研究、SEO、广告和内容任务。`AI 原生` `观察` `许可证待复核`
 - **[AI Marketing Skills](https://github.com/superamped/ai-marketing-skills)** ![Stars](https://img.shields.io/github/stars/superamped/ai-marketing-skills?style=flat-square) — 为编码 Agent 提供 SEO、文案、竞品和广告技能。`AI 原生` `观察` `许可证待复核`
 - **[Growth Marketing Skills](https://github.com/duandigi/duandigi-growth-marketing-skill)** ![Stars](https://img.shields.io/github/stars/duandigi/duandigi-growth-marketing-skill?style=flat-square) — 多渠道营销分析、实验和需要人工批准的优化流程。`AI 原生` `案例` `MIT`
+- **[LeadSets GTM Skills](https://github.com/leadsets/leadsets-skills)** ![Stars](https://img.shields.io/github/stars/leadsets/leadsets-skills?style=flat-square) — 50 个开源 GTM skills，用于潜客名单、联系人富集与验证、客户研究和 CRM 清洗，提供 Unlimited B2B Contact Data。`AI 原生` `观察` `MIT`
 
 ---
 
